@@ -51,7 +51,7 @@ Feature: 0302A-OpenLegacyFunction
         Examples:
             | Parameter       | Value            |
             | "Script"        | "YCREATE_TEXT"   |
-            | "Input param 1" | "New text ATP 1" |
+            | "Input param 1" | "Sales Field"    |
             | "Input param 2" | "New text ATP 2" |
             | "Input param 3" | "New text ATP 3" |
             | "Input param 4" | "New text ATP 4" |
